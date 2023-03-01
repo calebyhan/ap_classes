@@ -14,8 +14,7 @@ Website for AP class resources. This website is unaffiliated with Collegeboard®
 - AP United States Government and Politics
 - AP United States History
 - AP World History: Modern
-- AP Calculus AB
-- AP Calculus BC
+- AP Calculus AB/BC
 - AP Computer Science A
 - AP Statistics
 - AP Biology
