@@ -9,6 +9,7 @@ Website for AP class resources. This website is unaffiliated with Collegeboard®
 - AP Seminar
 - AP English Language and Composition
 - AP Human Geography
+- AP Comparative Government
 - AP Macroeconomics
 - AP Microeconomics
 - AP United States Government and Politics
@@ -21,8 +22,7 @@ Website for AP class resources. This website is unaffiliated with Collegeboard®
 - AP Chemistry
 - AP Physics 1: Algebra-Based
 - AP Physics 2: Algebra-Based
-- AP Physics C: Electricity and Magnetism
-- AP Physics C: Mechanics
+- AP Physics C
 - AP German Language and Culture
 </details>
 

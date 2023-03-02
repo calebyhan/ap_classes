@@ -6,6 +6,6 @@ A7CCED
 82A0BC
  */
 
-#navbar a {
-    color: #A7CCED;
+.dropdown-group {
+    display: inline-flex;
 }
